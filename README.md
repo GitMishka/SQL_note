@@ -1,1 +1,1 @@
-# SQL_note
+Some sql drafts and notes
